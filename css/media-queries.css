@@ -1,0 +1,422 @@
+/*Extra large device (Desktops)*/
+@media (min-width: 1200px) and (max-width: 1920px) {
+	
+}
+/*Medium device (Desktops)*/
+@media (min-width: 990px) and (max-width: 1199px) {
+	.navigation .nav li a {
+		padding: 15px 10px;
+	}
+	.form-search {
+		float: right;
+		width: 80%
+	}
+	.purpleAreaOne {
+		padding: 130px 0 0 0;
+	}
+	.purpleAreaOne h2, .purpleAreaOne h2 a {
+		font-size: 34px;
+	}
+	.purpleAreaOne h6, .purpleAreaOne h6 a {
+		font-size: 17px;
+	}
+	.slider {
+		padding: 163px 0 0 0;
+	}	
+	.slideCarousel {
+		top: 9.3%;
+		left: 6.4%;
+		width: 87%;
+	}
+	.grayBackgroundwide {
+		padding: 113px 0 0 0;
+	}
+	.whiteAreaTwo h1, .whiteAreaTwo h1 a {
+		font-size: 40px;
+	}
+	.grayAreaOne {
+		padding: 370px 0 0 0;
+	}
+	.grayAreaOne h3, .grayAreaOne h3 a {
+		font-size: 26px;
+		padding: 0 0 20px 0;
+	}
+	.grayAreaOne h5, .grayAreaOne h5 a {
+		font-size: 18px;
+		padding: 0 0 15px 0;
+	}
+	.grayAreaOne p {
+		font-size: 13px;
+		padding: 0 0 15px 0;
+	}
+	.scrollContent {
+		height: 368px;
+	}
+	.videoList .glyphicon {
+		font-size: 1.4em;
+	}
+}
+/*Small device (Tablets)*/
+@media (max-width: 989px) {
+	.headerwide {
+		background-repeat: repeat-y;
+		background-position: left top;
+	}
+	.headerSearch {
+		background-color: #efefef;
+		padding: 10px;
+		margin: 10px 0 0 0;
+	}
+	.form-search {
+		margin: 0;
+	}
+	.form-search input[type="text"] {
+		padding: 4px 10px;
+	}
+	.form-search .btn {
+		height: 27px;
+	}
+	.purpleTopwide {
+		background-image: none;
+		background-color: #c62277;
+		height: auto;
+	}
+	.purpleAreaOne {
+		padding: 15px 0 0 0;
+	}
+	.purpleAreaOne h2, .purpleAreaOne h2 a {
+		padding: 0 0 30px 0;
+		font-size: 26px;
+		text-align: center;
+	}
+	.purpleAreaOne h6, .purpleAreaOne h6 a {
+		font-size: 15px;
+		padding: 0 0 40px 0;
+		text-align: center;
+	}
+	.purpleAreaOne br {
+		display: none;
+	}
+	.grayAreaOne p {
+		display: none;
+	}
+	.buyAppNow {
+		position: static;
+		padding: 15px;
+		clear: both;
+	}
+	.buyAppButton {
+		display: inline-block;
+		border-color: #9e1b5f;
+		color: #ffb3da;
+		padding: 5px 30px;
+	}
+	.buyAppButton:hover {
+		border-color: #ffb3da;
+		color: #ffffff;
+	}
+	.whiteArea {
+		background-color: #ffffff;
+		position: relative;
+	}
+	.slider {
+		padding: 25px 0 25px 0;
+	}
+	.deviceMask {
+		width: 300px;
+		margin: 0 auto;
+	}
+	.slideCarousel {
+		top: 9.3%;
+		left: 6.4%;
+		width: 87%;
+	}	
+	.buyAppNow {
+		position: static;
+		padding: 15px;
+	}
+	.buyAppButton {
+		border-color: #9e1b5f;
+		color: #ffb3da;
+	}
+	.buyAppButton:hover {
+		border-color: #ffb3da;
+		color: #ffffff;
+	}
+	.grayBackgroundwide {
+		background-image: none;
+		background-color: #cfcfcf;
+		height: auto;
+		margin-top: 0px;
+		padding: 30px 0;
+	}
+	.grayAreaOne {
+		padding: 0;
+		margin: 0 0 20px 0;
+	}
+	.grayAreaOne h3, .grayAreaOne h3 a {
+		font-size: 21px;
+		padding: 0 0 26px 0;
+		text-align: center;
+	}
+	.grayAreaOne h5, .grayAreaOne h5 a {
+		font-size: 15px;
+		text-align: center;
+	}
+	.grayAreaOne p {
+		font-size: 13px;
+		line-height: 20px;
+		text-align: center;
+	}
+	.whiteAreaTwo h1, .whiteAreaTwo h1 a {
+		font-size: 27px;
+		padding: 15px 0;
+	}
+	.purpleBottomwide {
+		background-image: none;
+		background-color: #c62277;
+		height: auto;
+		margin-top: 0px;
+		padding: 30px 0;
+	}
+	.purpleAreaTwo h4, .purpleAreaTwo h4 a {
+		font-size: 22px;
+	}
+	.purpleAreaOne br {
+		display: none;
+	}
+	.grayAreaOne p {
+		display: none;
+	}
+	.grayAreaOne h3 br, .grayAreaOne h3 a br {
+		display: none;
+	}
+	.whiteAreaTwo h1, .whiteAreaTwo h1 a {
+		font-size: 30px;
+		padding: 15px 0;
+		text-align: center;
+	}
+	.videoList h4, .videoList h4 a {
+		font-size: 18px;
+		font-weight: 700;
+	}
+	.scrollContent {
+		height: 513px;
+	}
+	.videoList .glyphicon {
+		font-size: 1.4em;
+	}
+}
+
+/*Extra small device (Phones)*/
+@media (max-width: 767px) {
+	.headerwide {
+		background-repeat: repeat-y;
+		background-position: left top;
+	}
+	.logo {
+		width: 70%;
+	}
+	.navigationWraper {
+		background-color: transparent;
+		position: relative;
+		top: -33px;
+		z-index: 2;
+	}
+	.navigation .navbar-toggle {
+		padding: 5px 7px;
+		margin: 0px;
+		-webkit-border-radius: 0px;
+		-moz-border-radius: 0px;
+		border-radius: 0px;
+	}
+	.navigation .navbar-toggle .icon-bar {
+		background-color: #c62277;
+	}
+	.navigation .navbar-toggle:hover,
+	.navigation .navbar-toggle:focus {
+		border-color: #c62277;
+		background-color: #c62277;
+	}
+	.navigation .navbar-toggle:hover .icon-bar,
+	.navigation .navbar-toggle:focus .icon-bar {
+		background-color: #ffffff;
+	}
+	.navigation .navbar-collapse {
+		border: none;
+		margin: 13px 0 0 0;
+	}
+	.navigation .nav li a {
+		padding: 6px 10px;
+	}
+	.navigation .dropdown-menu {
+		padding: 0;
+	}
+	.navigation .navbar-nav .open .dropdown-menu > li > a {
+		background-color: #161616;
+	}
+	.navigation .navbar-nav .open .dropdown-menu > li > a:hover,
+	.navigation .navbar-nav .open .dropdown-menu > li > a:focus {
+		background-color: #1e1e1e;
+		color: #ff54ad;
+	}	
+	.headerSearch {
+		background-color: #efefef;
+		padding: 10px;
+	}
+	.form-search {
+		margin: 0;
+	}
+	.form-search input[type="text"] {
+		padding: 4px 10px;
+	}
+	.form-search .btn {
+		height: 27px;
+	}		
+	.purpleTopwide {
+		background-image: none;
+		background-color: #c62277;
+		height: auto;
+	}
+	.purpleTopwide .container {
+		padding-left: 0;
+		padding-right: 0;
+	}
+	.purpleAreaOne {
+		padding: 15px 0 0 0;
+	}
+	.purpleAreaOne h2, .purpleAreaOne h2 a {
+		padding: 0 0 30px 0;
+		font-size: 26px;
+		text-align: center;
+	}
+	.purpleAreaOne h6, .purpleAreaOne h6 a {
+		font-size: 15px;
+		padding: 0 0 40px 0;
+	}
+	.buyAppNow {
+		position: static;
+		padding: 15px;
+	}
+	.buyAppButton {
+		display: block;
+		border-color: #9e1b5f;
+		color: #ffb3da;
+		padding: 5px 10px;
+	}
+	.buyAppButton:hover {
+		border-color: #ffb3da;
+		color: #ffffff;
+	}
+	.whiteArea {
+		background-color: #ffffff;
+		position: relative;
+	}
+	.slider {
+		padding: 23px 0;
+	}
+	.deviceMask {
+		width: 260px;
+		margin: 0 auto;
+	}
+	.slideCarousel {
+		top: 9.3%;
+		left: 6.4%;
+		width: 87%;
+	}
+	.grayBackgroundwide {
+		background-image: none;
+		background-color: #cfcfcf;
+		height: auto;
+		margin-top: 0px;
+		padding: 30px 0 0 0;
+	}
+	.grayAreaOne {
+		padding: 0;
+	}
+	.grayAreaOne h3, .grayAreaOne h3 a {
+		font-size: 21px;
+		padding: 0 0 26px 0;
+		text-align: center;
+	}
+	.grayAreaOne h5, .grayAreaOne h5 a {
+		font-size: 15px;
+		text-align: center;
+	}
+	.grayAreaOne p {
+		font-size: 13px;
+		line-height: 20px;
+		text-align: center;
+	}
+	.whiteAreaTwo {
+		padding: 0 15px 15px 15px;
+	}
+	.whiteAreaTwo h1, .whiteAreaTwo h1 a {
+		font-size: 27px;
+		padding: 15px 0;
+		text-align: center;
+	}
+	.purpleBottomwide {
+		background-image: none;
+		background-color: #c62277;
+		height: auto;
+		margin-top: 0px;
+		padding: 30px 0;
+	}
+	.purpleAreaTwo h4, .purpleAreaTwo h4 a {
+		font-size: 22px;
+	}
+	.videoListThumble {
+		display: table;
+		margin: 0 auto 10px;
+	}
+	.videoList h4, .videoList h4 a {
+		font-size: 18px;
+		font-weight: 700;
+	}
+	.videoList p {
+		font-size: 12px;
+	}
+	.footertop {
+		padding: 15px;
+	}
+	.footertop h4, .footertop h4 a {
+		font-size: 20px;
+		padding: 0 0 10px 0;
+		text-align: center;
+	}
+	.footerMenu {
+		margin: 0 0 10px 0;
+	}
+	.footerMenu ul {
+		border-top: 1px solid #cecece;
+		background-color: #dfdfdf;
+		padding: 5px 0;
+		width: 100%;
+	}	
+	.footerMenu ul li a {
+		font-size: 14px;
+		text-align: center;
+	}
+	.footerSocialMedia {
+		text-align: center;
+		margin: 15px 0 15px 0;
+	}
+	.poweredBy, .copyWrite {
+		text-align: center;
+	}
+	.contentSidebarImage {
+		margin: 0 auto 30px;
+	}
+	.purpleHeadingwide h2, .purpleHeadingwide h2 a {
+		font-size: 26px;
+	}
+	.whiteContent p, .whiteContent ul, .whiteContent ol {
+		font-size: 14px;
+		line-height: 21px;
+	}
+	h1.form_name {
+		font-size: 26px;
+		font-weight: normal;
+	}	
+}
